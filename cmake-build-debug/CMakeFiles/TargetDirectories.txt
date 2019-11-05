@@ -1,0 +1,3 @@
+/home/garco/CLionProjects/MongooseWebServer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/garco/CLionProjects/MongooseWebServer/cmake-build-debug/CMakeFiles/MongooseWebServer.dir
+/home/garco/CLionProjects/MongooseWebServer/cmake-build-debug/CMakeFiles/edit_cache.dir

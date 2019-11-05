@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/MongooseWebServer.dir/src/mongoose.c.o CMakeFiles/MongooseWebServer.dir/src/main.cpp.o  -o MongooseWebServer 
